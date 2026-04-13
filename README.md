@@ -23,7 +23,6 @@ The aim is to help businesses make data-driven decisions.
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 <br>
 ---
@@ -53,7 +52,7 @@ The aim is to help businesses make data-driven decisions.
 🚀 How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/ecommerce-sales-analysis.git
+   git clone 
 
 2. Go to project folder:
    cd ecommerce-sales-analysis
